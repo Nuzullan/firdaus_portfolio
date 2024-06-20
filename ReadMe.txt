@@ -1,4 +1,4 @@
-Worthy - Free Bootstrap Template
+Abdulhameed Firdaus Portfolio
 
 Worhty is a Multipurpose One Page Template based on Bootstrap 3 Framework. 
 You can use it for corporate, business and agency webpages as well as 
