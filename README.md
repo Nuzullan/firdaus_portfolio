@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://nuzullan.github.io/firdaus_portfolio/
+   git clone https://github.com/Nuzullan/firdaus_portfolio.git
  2. Navigate into the project directory: cd your-repo
 
 
