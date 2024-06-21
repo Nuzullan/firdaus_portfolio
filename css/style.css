@@ -134,6 +134,14 @@ blockquote {
   background-position: center;
   background-size: cover;
 }
+.follow-btn{
+  display: inline-block;
+  text-decoration: none;
+  border: 1px solid #07729cee;
+  color: #555;
+  padding: 6px 35px;
+  margin: 25px 0;
+}
 .bg {
   width: 100%;
   min-height: 100vh;
@@ -466,9 +474,15 @@ textarea {
 
 /* Navigations
 ----------------------------------------------------------------------------- */
-.header .navbar {
+.header .navbar section {
   margin-bottom: 0;
+  width: 100%;
 }
+.header .navbar section ul{
+  margin-bottom: 0;
+  width: 70%;
+}
+
 .main-navigation .navbar-default {
   background-color: transparent;
   border: none;
@@ -478,6 +492,7 @@ textarea {
   padding: 10px 20px;
   font-size: 18px;
   font-weight: 300;
+  width: 70%;
 }
 .main-navigation .navbar-default .navbar-nav > li.active > a {
   background-color: transparent;
@@ -487,6 +502,7 @@ textarea {
 .main-navigation .navbar-default .navbar-nav > li.active > a:hover {
   color: #1dd3ca;
 }
+
 @media (min-width: 768px) {
   .main-navigation .navbar-default .navbar-nav > li > a {
     padding-top: 30px;
